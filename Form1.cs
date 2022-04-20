@@ -90,7 +90,6 @@ namespace pazel
                     cells[i, j].Text = Convert.ToString(s[index]);
                     cells[i, j].Font = new Font("Arial",16);
                     cells[i, j].BackColor = Color.Pink;
-                    cells[i, j].
 
                     if(s[index]==16)
                     {
