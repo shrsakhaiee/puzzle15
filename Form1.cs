@@ -101,6 +101,7 @@ namespace pazel
                     index++;
                 }
             }
+            check();
         }
 
         public void check()
